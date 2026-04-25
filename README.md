@@ -14,7 +14,7 @@ It demonstrates how raw data can be transformed into **clean, analysis-ready dat
 ## 🛠️ Tools & Technologies
 * Python (Pandas, NumPy, Matplotlib)
 * Power BI
-* Excel / CSV
+* CSV
 
 ## ⚙️ Data Cleaning Steps
 * Removed duplicate records
